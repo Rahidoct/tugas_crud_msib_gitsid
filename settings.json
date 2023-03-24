@@ -1,0 +1,5 @@
+{
+    "intelephense.completion.imports.suggest": true,
+    "intelephense.completion.imports.symbolByDefault": true,
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true
+}
